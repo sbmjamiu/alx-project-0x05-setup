@@ -1,4 +1,4 @@
-# AI Image Generator (Next.js + GPT-4)
+# HookMastery: Unleashing the Power of Hooks
 
 ## Project Description
 
